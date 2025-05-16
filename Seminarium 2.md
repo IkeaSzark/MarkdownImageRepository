@@ -19,6 +19,8 @@ Drugi rozdział ma celu przybliżenie konceptu logiki rozmytej, zbiorów rozmyty
 
 ### 2.1 Wzorcowy edytor graficzny Fuzzy Logic Designer w środowisku MATLAB
 
+Określenie logika rozmyta opisuje szczególną formę logiki wielowartościowej. W przeciwieństwie do modelu logiki boolowskiej, w którym przynależność jest określana binarnie przez wartości "0" lub "1", model logiki rozmytej przyjmuje koncept częściowej przynależności. Oznacza to, że dla funkcji przynależności f(x) może przyjmować wartość dowolnej liczby rzeczywistej z zakresu [0,1], opisując w ten sposób "stopień przynależności". 
+
 ### 2.2 Właściwości biblioteki Python fuzzylab
 
 ### 2.3 Właściwości biblioteki Python FuzzyLite
